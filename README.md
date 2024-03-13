@@ -4,7 +4,7 @@ WIP: A simple music genre classifier capable of classifying songs into 10 differ
 
 Folder set up as:  
 
-Music-Genre-Classifier
-L src
-L data
-  L dataset_spec
+Music-Genre-Classifier  
+L src  
+L data  
+  L dataset_spec  
